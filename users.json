@@ -1,0 +1,28 @@
+
+[
+  {
+    
+    "device_id": "admin",
+    "password": "password123",
+    "is_admin": true
+  },{
+    "device_id": "telegram_user",
+    "password": "123",
+    "is_admin": true
+  },
+  {
+    "device_id": "user1",
+    "password": "123",
+    "is_admin": false
+  },
+  {
+    "device_id": "user2",
+    "password": "123",
+    "is_admin": false
+  },
+  {
+    "device_id": "user3",
+    "password": "123",
+    "is_admin": false
+  }
+]

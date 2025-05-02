@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# Upload and session directories (local use only)
+nas_uploads/
+nas_uploads_persistent/
+nas_uploads_session/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and local data
+*.log
+*.sqlite3
+*.db
+*.tmp
+*.bak
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# VS Code or other editor settings
+.vscode/
+.idea/
+
+# OneDrive specific
+*.tmp
+~$*
